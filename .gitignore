@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+.env
+venv/
+env/
+
+# Data
+input_data/
+output_data/
+*.csv
+*.parquet
+*.avro
+
+# Databricks specific
+.ipynb_checkpoints/
+
+# Azure specific (secrets, logs, etc.)
+*.log
+*.secrets
