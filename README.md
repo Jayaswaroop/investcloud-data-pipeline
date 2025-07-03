@@ -1,4 +1,4 @@
-# InvestCloud Senior Data Engineer Technical Assignment: Scalable ETL Pipeline
+# InvestCloud: Scalable Streaming ETL Pipeline
 
 This repository contains a solution for the InvestCloud Senior Data Engineer technical assignment, focusing on designing and implementing a scalable ETL pipeline for large-scale user activity log data. The solution leverages modern data engineering practices and cloud-native Azure services.
 
